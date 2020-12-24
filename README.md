@@ -1,5 +1,5 @@
 # CondenseWands
-Condense wands for PocketMine MP 
+Condenses ingots into blocks so its faster than crafting :D
 
 # Downloads
 NOP NOT FOR SALE!!!!!
