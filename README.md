@@ -3,7 +3,8 @@
 | HitCount |
 |:--:|
 |[![HitCount](http://hits.dwyl.com/ElementalsMCPE/CondenseWands.svg)](http://hits.dwyl.com/ElementalsMCPE/CondenseWands)|
-Condenses ingots into blocks so its faster than crafting :D
+
+### Condenses ingots into blocks so its faster than crafting :D
 
 # Downloads
 NOP NOT FOR SALE!!!!!
